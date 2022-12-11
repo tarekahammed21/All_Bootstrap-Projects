@@ -1,0 +1,29 @@
+.link-design:hover {
+    text-decoration: none;
+    /* background-color: orange; */
+    font-weight: bold;
+}
+
+.button{
+    font-weight: bold;
+    
+}
+
+.nav-link-design:hover {
+    text-decoration: none;
+    background-color:orangered;
+
+    font-style: normal;
+    
+
+  
+}
+
+.footer-class{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.footer-class2{
+    text-decoration: none;
+}
